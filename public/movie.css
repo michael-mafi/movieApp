@@ -1,0 +1,54 @@
+h1{
+  color: RebeccaPurple;
+}
+body{
+  /*background-color: LemonChiffon;*/
+  background-color: MintCream;
+}
+.movie-search{
+  text-align: center;
+  margin: 10px;
+}
+.movie-search-input{
+  width: 30%;
+  margin-bottom: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+  font-size: 20px;
+  text-align: center;
+}
+.movie-search-note{
+  margin: 5px;
+  text-align: center;
+  padding: 5px;
+  box-sizing: border-box;
+  font-family: Arial;
+  font-size: 18px;
+}
+.movie-search-button{
+  font-size: 16px;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+.movies{
+  text-align: center;
+}
+.movie{
+  max-width: 100px;
+  display: inline-block;
+  vertical-align: bottom;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+.movie-img{
+  width: 100%;
+}
+.movie-details{
+  text-align: center;
+}
+.movie-favorite{
+  padding: 5px;
+  cursor: pointer;
+}

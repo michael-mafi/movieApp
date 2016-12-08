@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Find Any Movie</title>
+    <link rel="stylesheet" href="movie.css"/>
+    <link rel="shortcut icon" type="image/png" href="http://vignette3.wikia.nocookie.net/simpsons/images/6/64/Favicon.ico/revision/latest?cb=20060324190354"/>
+    <script type="text/javascript" src="helpers.js"></script>
+    <script type="text/javascript" src="movie.js"></script>
+  </head>
+    <body>
+      <div class='movie-search'>
+        <div>
+        <h1 class='movie-search'>Find any movie!</h1>
+          <input type='text' id='movieSearchInput' class='movie-search-input' placeholder='Westworld 1973'/>
+        </div>
+        <div class='movie-search-note'>Click here now!</div>
+        <div>
+          <button id='movieSearchButton' class='movie-search-button'>Search For Movies</button>
+        </div>
+      </div>
+      <div class='movie-search-note'>Click on a movie for more details.<br>Click on the "Favorite" button to save your favs.</div>
+      <div class='movie-search-note'><a href='/my-favorites'>View Your Favs</a></div>
+      <div id='movieResults' class='movies'></div>
+      <div id='movieDetails' class='movie-details'></div>
+      <script>(function() {initMovies();})();</script>
+    </body>
+</html>
