@@ -5,6 +5,6 @@
 
 ### Step 1- `npm install`
 ### Step 2- `npm start` 
-### Step 2- go to `http://localhost:3000`
+### Step 3-  go to `http://localhost:3000`
 
 
