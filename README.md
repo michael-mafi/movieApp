@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../public/screenShot.png" alt="screenShot of app"/>
+  <img src="/public/screenShot.png" alt="screenShot of app"/>
 </p>
 ##Give it a whirl
 
