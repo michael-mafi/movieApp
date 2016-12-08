@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i.giphy.com/d6Unw9Ke0vCFO.gif" alt="guy with vr headset on in a aerobics class"/>
+  <img src="../public/screenShot.png" alt="screenShot of app"/>
 </p>
 ##Give it a whirl
 
